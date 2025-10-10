@@ -3,6 +3,7 @@ import './style.css'
 import Trash from '../../assets/trash.svg'
 
 const App = () => {
+  5
 
   const users = [
     {
@@ -11,7 +12,7 @@ const App = () => {
       age: '19',
       email: 'mf@gmail.com'
     },
-    { 
+    {
       id: '2323a321a',
       name: 'teste',
       age: '42',
@@ -25,28 +26,28 @@ const App = () => {
     <div className='container'>
       <form action="">
         <h1>Users Registration</h1>
-        <input name='name' type="text" />
-        <input age='age' type="number" />
-        <input email='name' type="email" />
+        <input placeholder="Name" name="name" type="text" />
+        <input placeholder="Age" name="age" type="number" />
+        <input placeholder="Email" name="email" type="Email" />
         <button type='button'>Registration</button>
       </form>
 
-    { users.map( (user) => (
+      {users.map((user) => (
 
-      <div key={user.id}>
+        <div key={user.id} className='card'>
           <div>
-            <p>Nome: {user.name}</p>
-            <p>Age: {user.age}</p>
-            <p>Email: {user.email}</p>
-          </div>          
+            <p>Nome: <span>{user.name}</span></p>
+            <p>Age: <span>{user.age}</span></p>
+            <p>Email: <span>{user.email}</span></p>
+          </div>
           <button>
-            <img src={Trash}/>
+            <img src={Trash} />
           </button>
-      </div>     
+        </div>
 
-    ) )}
+      ))}
 
-       
+
 
     </div>
   )
