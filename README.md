@@ -1,20 +1,7 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="center" width="30%">
-</p>
-<p align="center">
-    <h1 align="center">USERS_REGISTRATION</h1>
-</p>
-<p align="center">
-    <em><code>Interface de Usuário para o Gerenciamento de Dados em Escala</code></em>
-</p>
-<p align="center">
-    <img src="https://img.shields.io/github/license/MarceloNobrega29/users_registration?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="licença">
-    <img src="https://img.shields.io/github/last-commit/MarceloNobrega29/users_registration?style=default&logo=git&logoColor=white&color=0080ff" alt="ultimo-commit">
-    <img src="https://img.shields.io/github/languages/top/MarceloNobrega29/users_registration?style=default&color=0080ff" alt="linguagem-principal">
-    <img src="https://img.shields.io/github/languages/count/MarceloNobrega29/users_registration?style=default&color=0080ff" alt="contagem-linguagens">
-</p>
-<br>
 
+# USERS_REGISTRATION
+
+---
 
 ## 📍 Visão Geral
 
@@ -50,8 +37,7 @@ Ele oferece uma interface de usuário completa e responsiva para gerenciar regis
 | **Linguagem Principal** | ![javascript 56.7%](https://img.shields.io/badge/JavaScript-56.7%25-yellow) | Lógica e componentes (React) |
 | **Estilos** | ![css 31.2%](https://img.shields.io/badge/CSS-31.2%25-blue) | Estilização (CSS) |
 | **Estrutura** | ![html 12.1%](https://img.shields.io/badge/HTML-12.1%25-orange) | Estrutura da página |
-| **Licença** | ![license](https://img.shields.io/github/license/MarceloNobrega29/users_registration?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff) | |
-| **Último Commit** | ![last commit](https://img.shields.io/github/last-commit/MarceloNobrega29/users_registration?style=default&logo=git&logoColor=white&color=0080ff) | |
+| **Último Commit** | ![last commit october](https://img.shields.io/github/last-commit/MarceloNobrega29/users_registration?style=default&logo=git&logoColor=white&color=0080ff) | 
 
 ---
 
