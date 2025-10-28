@@ -15,23 +15,6 @@
 </p>
 <br>
 
-## 🔗 Sumário
-
-* [📍 Visão Geral](#-visão-geral)
-* [✨ Funcionalidades](#-funcionalidades)
-* [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-* [📁 Estrutura do Projeto](#-estrutura-do-projeto)
-* [🚀 Primeiros Passos](#-primeiros-passos)
-    * [☑️ Pré-requisitos](#☑️-pré-requisitos)
-    * [⚙️ Instalação](#⚙️-instalação)
-    * [🤖 Uso](#🤖-uso)
-    * [🧪 Testes](#🧪-testes)
-* [📌 Roteiro do Projeto](#-roteiro-do-projeto)
-* [🔰 Contribuição](#-contribuição)
-* [🎗 Licença](#-licença)
-* [🙌 Agradecimentos](#-agradecimentos)
-
----
 
 ## 📍 Visão Geral
 
@@ -140,26 +123,7 @@ O aplicativo será iniciado em modo de desenvolvimento, geralmente acessível em
 
 ---
 
-### 🧪 Testes
-
-**Execute os testes (se configurado):**
-```bash
-npm test
-```
-
----
-
-## 📌 Roteiro do Projeto
-
-- [x] Task 1: <strike>Implementar o formulário de cadastro de usuário.</strike>  
-- [ ] Task 2: Implementar a visualização e edição de registros.  
-- [ ] Task 3: Adicionar notificação de sucesso/erro após operações na API.  
-
----
-
 ## 🔰 Contribuição
 
-💬 **Junte-se às Discussões**  
-🐛 **Reporte Issues**  
 💡 **Envie Pull Requests**
 
